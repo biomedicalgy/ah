@@ -1,0 +1,325 @@
+.header{
+    height: 100vh;
+    width: 100vw;
+}
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{background-image: url("1.webp");
+background-position: center;
+background-color: rgb(13, 13, 153);
+background-size: cover;
+background-repeat: no-repeat;
+padding: 15px;
+
+}
+.log{
+    padding-right: 800px;
+    padding-top: 100px;
+}
+h1,p{
+    color: white;
+}
+
+.logo{
+    padding-left: 10px;
+}
+a{margin: 15px;
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
+}
+.logo,.navbar{
+    float: left;
+    margin: 15px;
+
+}
+.button{
+   align-items: center;
+    float: right;
+}
+.btn{
+    text-align: center;
+    color: white;
+height: 40px;
+padding: 20px;
+border: 2px solid rgb(59, 69, 83);
+border-radius: 15px;
+width: 200px;
+    background-color: rgb(36, 47, 58);
+}
+.btn:hover{
+    color: hotpink;
+    background-color: white;
+}
+h1{
+    font-size: 60px;
+}
+.bt{
+    margin: 5px;
+    height: 60px;
+    width: 150px;
+    padding: 20px;
+    border: 2px solid hotpink;
+    border-radius: 15px;
+color: white;
+background:linear-gradient(hotpink,rgb(180, 71, 71));
+}
+.bt:hover{
+    height: 60px;
+    width: 160px;
+    color: hotpink;
+    border: 2px solid white;
+    background:linear-gradient(rgb(236, 216, 226),rgb(167, 164, 164));
+    }
+    .navbar{
+        position: fixed
+        ;
+    }
+
+    .services{
+        height: 100vh;
+        width: 100vw; 
+    }
+    .heading{
+        text-align: center;
+        align-items: center;
+        color: hotpink;
+        margin: 60px;
+
+    }
+    
+    .first{
+        color: rgb(48, 37, 146);
+        text-align: center;
+        align-items: center;
+    }
+    
+    .img{
+        align-items: center;
+    }.it{color: rgb(37, 21, 173);
+        font-size: 25px;
+    }
+    .i{
+        color:rgb(114, 113, 110) ;
+    }
+    .box{
+        padding: 10px;
+        height: 300px;
+        width: 30vw;
+        float: left;
+    }
+    .container{
+        height: 100vh;
+        width: 70vw;
+        padding: 0;
+        margin: 20xp;
+    }
+    .box:hover{
+        border-radius: 40px;
+        background:linear-gradient(hotpink,rgb(214, 109, 109));
+    }
+    .i,.it,img{
+        margin: 40px;
+    }
+    .cont{
+        height: 100%;
+        width:40vw ;
+        float: left;
+    }
+    .io{
+     
+        width: 450px;
+    }
+    .cont {
+        padding: 0;
+    }
+    .ii{
+        color: rgb(137, 139, 141);
+    }
+    .hor{
+        height: 100vh;
+        width :100vw;
+        padding: 20px;
+        background:linear-gradient(rgb(3, 3, 95),rgb(74, 74, 192))
+    }
+  
+    .hot{
+        float: left;
+        color: hotpink;
+    }
+ 
+    .left{
+        font-size: 25px;
+    }
+    .left,.hot{
+        margin:20px;
+    }
+    .hox{
+        height: 300px;
+        width: 160px;
+        margin: 10px;
+        float:left ;
+border: 2px solid gray;
+border-radius: 30px;
+
+padding: 15px;
+    }
+    .hox:hover{ 
+        margin: 15px;
+        background-color: rgb(7, 13, 70);
+
+    }
+    h2{
+        font-size: 20px;
+
+    }
+    .h4{
+        text-align: center;
+        height: 10vh;
+        color: white;
+        background-color: rgb(74, 87, 199);
+        width: 100vw;
+    }
+    .case{
+        text-align: center;
+     
+        padding: 40px;
+     height: 100vh;
+     width: 100vw;
+     color: rgb(13, 13, 99);
+     font-size: 25px;
+     background-color: rgb(216, 226, 226);
+    }
+    .ase,p{
+        margin: 150px;
+    }
+    p,p{
+        margin: 0;
+    }
+    .ase{
+        text-align: center;
+        font-size: 25px;
+        color: rgb(34, 32, 175);
+    }
+    p{
+        color: rgb(71, 68, 62);
+    }
+    p,p{
+        margin: 0;
+    }
+     
+    p,.b{
+        margin: 15px;
+    }
+
+    .b:hover{
+        color: white;
+        border: 2px solid blue;
+        background-color: rgb(15, 15, 126);
+    }
+    .case{
+        border-bottom: 2px solid gray;
+        height: 100vh;
+    }
+    .b{
+
+        height: 50px;
+        width: 220px;
+        padding: 15px;
+        color: hotpink;
+        background-color: rgb(247, 248, 248);
+        border: 2px solid hotpink;
+        border-radius: 15px;
+    }
+    .bi{
+        color: rgb(10, 38, 63);
+        font-size: 40px;
+    }
+
+
+.you{
+padding: 15px;
+    background-color: rgb(216, 226, 226);
+    height: 30vh;
+    border-bottom: 2px solid gray;
+    width: 100vw;
+}
+    .lop{
+        float: left;
+        height: 30vh;
+        width: 30vw;
+    }
+
+    p{
+
+        font-size: 15px;
+    }
+    .bi,.p{
+     
+        background-color: rgb(216, 226, 226);
+        margin: 10px;
+    }
+    .blu{
+        color: rgb(18, 26, 145);
+    }
+    .bo{
+         
+        float: left
+        ;
+        height: 80vh;
+        width: 33vw;
+    }
+   
+    .coon{
+        width: 100vw;
+        height: 100vh;
+    }
+    .u:hover{
+        height: 130px;
+        width: 220px;
+
+    }
+    .footer{
+        padding: 30px;
+        background-color: rgb(83, 236, 241);
+        height: 70vh;
+        width: 100vw;
+    }
+    .fo{
+        
+    color: rgb(99, 82, 173);
+        padding: 10px 0 0 10px;
+        font-size: 25px;
+    }
+    .oop{
+        padding: 10px 10px 0 0 ;
+        float: right;
+    }
+h4{
+    color: rgb(99, 82, 173);
+    font-size: 15px;
+    margin: 15px;
+}
+
+    .op{
+        height: 70vh;
+        width: 30vw;
+        float: left;
+    }
+    .footer,.con{
+        margin: 55px;
+    }
+    .email{
+        height: 40px;
+        width: 400px;
+        padding: 15px;
+    border-radius: 15px;
+    }
