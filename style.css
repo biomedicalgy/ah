@@ -13,8 +13,7 @@
     box-sizing: border-box;
 }
 .header{ background-image: url("1.webp");
-background-position: center;
-background-color: rgb(13, 13, 153);
+background-position: center; 
 background-size: cover;
 background-repeat: no-repeat;
 padding: 15px;
