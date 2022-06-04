@@ -13,6 +13,7 @@
     box-sizing: border-box;
 }
 .header{ background-image: url("1.jpg");
+    background:blue;
     
 background-position: center; 
 background-size: cover;
