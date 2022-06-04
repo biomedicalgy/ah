@@ -12,7 +12,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-.header{background-image: url("1.WEBP");
+.header{ background-image: url("1.webp");
 background-position: center;
 background-color: rgb(13, 13, 153);
 background-size: cover;
