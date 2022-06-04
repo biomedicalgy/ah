@@ -12,7 +12,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-.header{ background-image: url("1.webp");
+.header{ background-image: url("1.jpg");
+    
 background-position: center; 
 background-size: cover;
 background-repeat: no-repeat;
